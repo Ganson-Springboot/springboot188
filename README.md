@@ -8,7 +8,7 @@
 
 
 
-# 0187springboot基于spring boot的校园商铺管理系统
+# springboot188基于spring boot的校园商铺管理系统
 
 # 5系统实现
 ## 5.1管理员功能实现
